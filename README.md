@@ -6,7 +6,7 @@ Ask the user to enter positive integers. They need to be in sorted order, with s
 
 Here is an example of the execution of the program. Note that there are duplicates in the first list.
 
-ch18-STL-List.PNG
+![ch18-STL-List.PNG](https://github.com/bell-kevin/STLch18LinkedList/blob/main/STLch18LinkedList/STL.PNG)
 
 Take a screenshot of the result.
 
