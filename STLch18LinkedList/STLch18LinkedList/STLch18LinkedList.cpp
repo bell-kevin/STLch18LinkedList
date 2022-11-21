@@ -56,8 +56,7 @@ int main()
 	cout << endl;
 	cout << "Merging the two lists\n";
 	//merge the two lists
-	list1.merge
-	(list2);
+	list1.merge(list2);
 	cout << "This is the merged list of numbers\n";
 	for (iter = list1.begin(); iter != list1.end(); iter++)
 		cout << *iter << " ";
